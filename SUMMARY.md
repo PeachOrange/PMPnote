@@ -3,7 +3,7 @@
 - [前言](README.md)
 - [第一章-第三章](Chapter1-3/README.md)
   - [培训大纲](Chapter1-3/培训大纲.md)
-  - [项目管理核心思想](Chapter1-3)
+  - [主要内容](Chapter1-3/主要内容.md)
 - [第四章](Chapter4/README.md)
 - [第五章](Chapter5/README.md)
 - [第六章](Chapter6/README.md)
